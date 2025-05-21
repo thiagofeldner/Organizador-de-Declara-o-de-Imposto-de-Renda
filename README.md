@@ -26,5 +26,5 @@ Este projeto tem como objetivo criar uma ferramenta no Excel que ajude a organiz
 ### Resultado Final do meu Projeto <br>
 
 <p align="start" >
-     <img width="400" heigth="400" src="[https://github.com/thiagofeldner/Controle-de-Investimento/blob/main/images/Controle%20de%20Investimentos.png](https://github.com/thiagofeldner/Organizador-de-Declaracao-de-Imposto-de-Renda/tree/main/images/OrganizadorImpostoRenda - Informes.png)">
+     <img width="400" heigth="400" src="https://github.com/thiagofeldner/Organizador-de-Declaracao-de-Imposto-de-Renda/blob/main/images/OrganizadorImpostoRenda%20-%20Titular.png">
 </p>
