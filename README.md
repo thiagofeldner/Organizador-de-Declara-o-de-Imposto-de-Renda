@@ -26,7 +26,13 @@ Este projeto tem como objetivo criar uma ferramenta no Excel que ajude a organiz
 ### Resultado Final do meu Projeto <br>
 
 <p align="start" >
-     <img width="360" heigth="360" src="https://github.com/thiagofeldner/Organizador-de-Declaracao-de-Imposto-de-Renda/blob/main/images/OrganizadorImpostoRenda%20-%20Titular.png">
+    <img width="360" heigth="360" src="https://github.com/thiagofeldner/Organizador-de-Declaracao-de-Imposto-de-Renda/blob/main/images/OrganizadorImpostoRenda%20-%20Titular.png">        
+</p>
+
+<p align="start">
     <img width="360" heigth="360" src="https://github.com/thiagofeldner/Organizador-de-Declaracao-de-Imposto-de-Renda/blob/main/images/OrganizadorImpostoRenda%20-%20Informes.png">
+</p>
+
+<p align="start">
     <img width="360" heigth="360" src="https://github.com/thiagofeldner/Organizador-de-Declaracao-de-Imposto-de-Renda/blob/main/images/OrganizadorImpostoRenda%20-%20Notas.png">
 </p>
